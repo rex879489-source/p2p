@@ -46,5 +46,5 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.6")
 
     // Actively maintained up-to-date WebRTC build (GetStream fork of libwebrtc)
-    implementation("io.github.webrtc-sdk:android:125.6422.07.1")
+    implementation("io.github.webrtc-sdk:android:125.6422.04")
 }
